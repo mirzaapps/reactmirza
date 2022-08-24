@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/reactmirza/static/css/main.31d6cfe0.css",
+    "main.js": "/reactmirza/static/js/main.f3e19539.js",
+    "index.html": "/reactmirza/index.html",
+    "main.f3e19539.js.map": "/reactmirza/static/js/main.f3e19539.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.f3e19539.js"
+  ]
+}
